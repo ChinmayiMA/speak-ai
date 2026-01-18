@@ -20,11 +20,11 @@ msgstr ""
 #. TRANS: "name" option from activity.info file
 #: activity.py:104
 msgid "Speak"
-msgstr "Speak"
+msgstr "Let's Talk!"
 
 #. TRANS: "summary" option from activity.info file
 msgid "An animated face that speaks whatever you type"
-msgstr "An animated face that speaks whatever you type"
+msgstr "A friendly AI companion that chats and learns with you!"
 
 #. TRANS: "description" option from activity.info file
 msgid ""
